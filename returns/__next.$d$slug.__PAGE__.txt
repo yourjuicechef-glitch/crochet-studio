@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+3:I[97367,["/crochet-studio/_next/static/chunks/27rri40aeyr2h.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/crochet-studio/_next/static/chunks/27rri40aeyr2h.js"],"ViewportBoundary"]
+9:I[97367,["/crochet-studio/_next/static/chunks/27rri40aeyr2h.js"],"MetadataBoundary"]
+a:I[27201,["/crochet-studio/_next/static/chunks/27rri40aeyr2h.js"],"IconMark"]
+2:T44c,<h2 class="wp-block-heading">Returns</h2>
+
+
+
+<p class="wp-block-paragraph">Items may be returned within 3 days of delivery. To request a return, please contact us with your order details before sending an item back.</p>
+
+
+
+<p class="wp-block-paragraph">Return postage is borne by the customer. Where applicable, we may adjust return-postage costs from the refund settlement.</p>
+
+
+
+<h2 class="wp-block-heading">Custom and bulk orders</h2>
+
+
+
+<p class="wp-block-paragraph">Custom and bulk orders are not eligible for returns or refunds.</p>
+
+
+
+<h2 class="wp-block-heading">Refunds</h2>
+
+
+
+<p class="wp-block-paragraph">Refunds are processed after the returned product has been received by us and inspected.</p>
+
+
+
+<h2 class="wp-block-heading">Cancellations</h2>
+
+
+
+<p class="wp-block-paragraph">An order may be cancelled only before it has been shipped.</p>
+
+
+
+<h2 class="wp-block-heading">Need help?</h2>
+
+
+
+<p class="wp-block-paragraph">For assistance, visit <a href="/contact">Contact Us</a>. See <a href="/shipping">Shipping &amp; Delivery</a> and <a href="/terms">Terms &amp; Conditions</a>.</p>
+7:X
+e:X
+e:C
+0:{"buildId":"-ImNKHmfa8F4Ctxwig2rx","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"shell section max-w-3xl","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"[{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://crochetstudio.in\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Returns, Exchanges & Cancellations\",\"item\":\"https://crochetstudio.in/returns\"}]}]"}}],["$","h1",null,{"className":"h1","children":"Returns, Exchanges & Cancellations"}],["$","div",null,{"className":"prose-crochet mt-10","dangerouslySetInnerHTML":{"__html":"$2"}}],false,false,false,false]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Returns, Exchanges & Cancellations · Crochet Studio"}],["$","meta","1",{"name":"description","content":"When a handmade crochet piece can be returned or exchanged, how refunds are issued, and the rules for custom and bulk orders."}],["$","meta","2",{"name":"robots","content":"noindex, follow"}],["$","link","3",{"rel":"canonical","href":"https://crochetstudio.in/returns/"}],["$","meta","4",{"property":"og:title","content":"Returns, Exchanges & Cancellations"}],["$","meta","5",{"property":"og:description","content":"When a handmade crochet piece can be returned or exchanged, how refunds are issued, and the rules for custom and bulk orders."}],["$","meta","6",{"property":"og:url","content":"https://crochetstudio.in/returns/"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"Returns, Exchanges & Cancellations"}],["$","meta","9",{"name":"twitter:description","content":"When a handmade crochet piece can be returned or exchanged, how refunds are issued, and the rules for custom and bulk orders."}],["$","link","10",{"rel":"icon","href":"/crochet-studio/favicon.ico?favicon.2vob68tjqpejf.ico","sizes":"256x256","type":"image/x-icon"}],["$","link","11",{"rel":"icon","href":"/crochet-studio/icon.svg?icon.0d1a-2bssbhne.svg","sizes":"any","type":"image/svg+xml"}],["$","link","12",{"rel":"apple-touch-icon","href":"/crochet-studio/apple-icon.png?apple-icon.3axd_jw8fhp0a.png","sizes":"180x180","type":"image/png"}],["$","$La","13",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":"$Lc","isPartial":"$@d","staleTime":"$7","varyParams":"$e"}],"isUpgradeableISRFallback":false,"a":"$@f","rootVaryParams":null,"needsRuntimeRequest":"$@10"}
+11:I[39756,["/crochet-studio/_next/static/chunks/27rri40aeyr2h.js"],"default"]
+12:I[37457,["/crochet-studio/_next/static/chunks/27rri40aeyr2h.js"],"default"]
+5:null
+c:["$","$1","c",{"children":[null,["$","$L11",null,{"parallelRouterKey":"children","template":["$","$L12",null,{}]}]]}]
+10:true
+7:300
+7:C
+f:0
+b:"$undefined"
+d:"$undefined"
+6:"$undefined"
