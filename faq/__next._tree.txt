@@ -1,4 +1,4 @@
-:HL["/crochet-studio/_next/static/chunks/1fxgz9iqpo-z8.css","style"]
+:HL["/crochet-studio/_next/static/chunks/3o2tf-rrf09m4.css","style"]
 :HL["/crochet-studio/_next/static/media/54fc36028e2bb174-s.p.20jfceqj9zyw9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/crochet-studio/_next/static/media/7ddd198311ba7843-s.p.3kq6k02b2ysv1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"d","key":"faq","siblings":["api","bulk","campaign","cart","checkout","contact","custom","journal","product","saved","shop","story","terms"]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"7mh9ft_Ab4H2zQ8SaRJCL"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"slug","param":{"type":"d","key":"faq","siblings":["api","bulk","campaign","cart","checkout","contact","custom","journal","product","saved","shop","story","terms"]},"prefetchHints":4160,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ye4qv1lo3xZY1qTxswBw9"}
